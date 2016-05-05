@@ -1,0 +1,52 @@
+Behavioral results:
+
+Getting Means and SEM?????
+
+“Where relevant, the greenhouse-Geisser p values are reported”
+Remember we removed person 8 and removed response times if they were clear outliers
+
+
+3 way ANOVA— perspective (self/partner), trialtype (PIC), Condition (coop/cond). Measure of accuracy 
+	— no main effect of perspective (F(1,19) = 0.365; p > 0.05, M1 = 0.955, SEM1 = 0.006; M2 = 0.961, SEM2 = 0.007)
+		— doesn’t matter whether talking about self or partner, accuracy is the same—> perspective doesnt change accuracy
+	— no interaction between perspective and the condition (F(1,19) = 0.365; p > 0.05)
+	— main effect of trialtype (F(2,38) = 4.902; p = 0.016; partial eta = 0.205; MP = 0.971, Stdev = 0.152 ; MI = 0.969, Stdev = 0.152; MC = 0.934, Stdev = 0.154
+	)
+		— why was C a lot harder?
+			—not using the same sentences
+			—maybe didn’t explain it enough
+	— no interaction between perspective and trialtype (F(2,38) = 2.576; p = .096)
+		—mild trending towards significance so report it. 
+		—make a graph for it!!!!!
+	— no interaction between perspective, trialtype and condition (F(2,38) = 0.189; p > 0.05)
+
+3 way ANOVA— perspective (self/partner), trialtype (PIC), Condition (coop/cond). Measure of RT
+	— main effect of perspective (F(1,19) = 15.126; p = 0.001; partial eta = 0.443, MPartner = 2845.824, Stdev = 2271.25, MSelf = 1086.891, StDev = 558.53)
+	— no interaction of perspective and condition (F(1,19) = 0.368; p > 0.05)
+	— main effect of trialtype (F(2,38) = 9.237; p = .001; partial eta = 0.327, MP = 1816.075, Stdev = 1845.924, MI = 2019.909, Stdev = 1882.55, MC = 2063.088, Stdev = 1904.801)
+	— no interaction of trialtype and condition (F(2,38) = 1.333; p > 0.05)
+	— no interaction of perspective and trialtype (F(2,38) = 0.115; p > 0.05)
+	— no interaction of perspective, trialtype, and condition (F(2,38) = 0.701; p > 0.05)
+
+3 way ANOVA— perspective (self/partner), trialtype (PIC), Condition (coop/cond). Measure of error
+	— no effect of perspective (F(1,19) = 0.365; p > 0.05)
+	— no interaction of perspective and condition (F(1,19) = 0.365; p > 0.05)
+	— main effect of trialtype (F(2,38) = 4.902; p < 0.05; partial eta = 0.205)
+	— no interaction of trialtype and condition (F(2,38) = 0.077; p > 0.05)
+	— no interaction of perspective and trialtype (F(2,38) = 2.576; p > 0.05)
+	— no interaction of perspective, trialtype and condition (F(2,38) = 0.189); p > 0.05)
+
+Survey data: Report the median. 
+
+	mann whitney because of ordinal data 
+	— reject null hypothesis that the distribution of coopCompRating is the same across categories of Condition (Mdn = 8), U =104, p < 0.001
+		— manipulation check
+		—(1-most competitive—>10-most cooperative)
+	— fail to reject null hypothesis that the distribution of motivation is the same across categories of condition (p > 0.05)
+		—1—>5
+	— fail to reject null hypothesis that the distribution of jengafamiliarity is the same across categories of condition (p > 0.05)
+		—1-5
+	— fail to reject null hypothesis that the distribution of Otherplayer is the same across categories of condition (p > 0.05)
+		—1-5
+	— fail to reject null hypothesis that the distribution of @EQ is the same across categories of condition (p > 0.05)
+		—summed numbers. max is 34
